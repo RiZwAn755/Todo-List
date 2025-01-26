@@ -1,0 +1,48 @@
+
+
+
+
+.tbl
+{
+    margin: 20px;
+}
+
+.Taskname
+{
+    margin: 2px;
+    border:1px solid rgb(163, 192, 163);
+
+    border-radius: 4px;
+    background-color: rgba(29, 252, 21, 0);
+    width: 70%;
+
+ 
+    box-sizing: border-box;
+}
+
+.input
+{
+  width: 50%;  
+}
+
+.add-task
+{
+    margin-left: 10%;
+
+    margin-top: 10px;
+    align-items: center;
+}
+.btn{
+    background-color: blueviolet;
+   
+}
+.xx
+{
+    background-color: blueviolet;
+    border-radius: 5px;
+}
+
+.tbl
+{
+   align-items: center;
+}

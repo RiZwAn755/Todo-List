@@ -13,7 +13,7 @@ export default function Nav()
 
 
               <div className='navText'>
-                  <h1 style={{color:"white"}}> Ogranise Your Tasks</h1>
+                  <h1 style={{color:"white"}}> Prioritize Your Tasks</h1>
               </div>
 
               <div className="navLinks">

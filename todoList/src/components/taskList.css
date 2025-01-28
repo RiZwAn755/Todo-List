@@ -4,19 +4,28 @@
 
 .tbl
 {
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    border: 2px solid blueviolet;
+    padding: 20px;
+    border-radius: 10px;
     margin: 20px;
+    background-color: rgba(205, 176, 214, 0.897);
+    
 }
 
 .Taskname
 {
-    margin: 2px;
+    /* margin: 2px; */
     border:1px solid rgb(163, 192, 163);
-
+     font-weight: 900;
     border-radius: 4px;
     background-color: rgba(29, 252, 21, 0);
-    width: 70%;
-
+    width: 800px;
+    color:rgba(218, 66, 182, 0.904);
  
+     text-align: center;
     box-sizing: border-box;
 }
 
@@ -42,7 +51,12 @@
     border-radius: 5px;
 }
 
-.tbl
+
+
+.tbd
 {
-   align-items: center;
+    background-color:white;
+    border-radius: 9px;
+    width: 80%;
+
 }

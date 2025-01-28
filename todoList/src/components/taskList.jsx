@@ -34,12 +34,9 @@ export default function TaskList({ tasks }) {
 
       <table className="tbl">
         <thead className="thd">
-          <tr>
-            <th>Task Name</th>
-            <th>Action</th>
-          </tr>
+        
         </thead>
-        <tbody>
+        <tbody className='tbd'>
           {taskList.map((task, index) => (
             <tr key={index}>
               <td className="Taskname">{task}</td>
